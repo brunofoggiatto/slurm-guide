@@ -269,4 +269,4 @@ squeue -u <USER>
 
 ---
 
-**Done!** You now have a minimal, single-node SLURM setup on Ubuntu 22.04. For multi-node clusters, replicate the Munge key across nodes, ensure consistent hostnames/DNS, and expand `NodeName`/`PartitionName` accordingly.
+Done! You now have a minimal, single-node SLURM setup on Ubuntu 22.04.

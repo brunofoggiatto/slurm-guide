@@ -1,4 +1,4 @@
-# SLURM Installation Guide for Ubuntu 22.04
+# SLURM Installation Guide 
 
 This guide provides a step-by-step process for installing, configuring, and using **SLURM** on Ubuntu 22.04.
 
